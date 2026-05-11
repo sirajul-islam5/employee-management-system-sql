@@ -58,11 +58,7 @@ The dataset was intentionally kept small and relatable, since every organization
 ## ⚙️ How to Run This Project
 
 1. Open your preferred SQL environment (MySQL Workbench, pgAdmin, DB Browser for SQLite, etc.)
-2. Create a new database:
-```sql
-   CREATE DATABASE employee_management;
-   USE employee_management;
-```
+2. Create a new database
 3. Create the `Departments` and `Employees` tables
 4. Insert the sample data
 5. Run any of the queries from the project
